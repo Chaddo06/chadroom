@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=chadroom,Windows=chadroom,_Debug=chadroom,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=chadroom,Windows=chadroom,_Debug=chadroom,Web=chadroom,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>

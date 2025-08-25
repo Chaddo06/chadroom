@@ -1,0 +1,1 @@
+var gamefiles = ['chadroom.ags', 'acsetup.cfg'];
