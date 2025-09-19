@@ -4310,6 +4310,150 @@
                               <ImportAlphaChannel>True</ImportAlphaChannel>
                             </Source>
                           </Sprite>
+                          <Sprite Slot="38" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                            <Source>
+                              <FileName>Slenderjump/Flying0.png</FileName>
+                              <OffsetX>0</OffsetX>
+                              <OffsetY>0</OffsetY>
+                              <ImportHeight>50</ImportHeight>
+                              <ImportWidth>25</ImportWidth>
+                              <ImportAsTile>False</ImportAsTile>
+                              <Frame>0</Frame>
+                              <RemapToGamePalette>True</RemapToGamePalette>
+                              <RemapToRoomPalette>False</RemapToRoomPalette>
+                              <ImportMethod>LeaveAsIs</ImportMethod>
+                              <TransparentColorIndex>0</TransparentColorIndex>
+                              <ImportAlphaChannel>True</ImportAlphaChannel>
+                            </Source>
+                          </Sprite>
+                          <Sprite Slot="39" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                            <Source>
+                              <FileName>Slenderjump/Flying1.png</FileName>
+                              <OffsetX>0</OffsetX>
+                              <OffsetY>0</OffsetY>
+                              <ImportHeight>50</ImportHeight>
+                              <ImportWidth>25</ImportWidth>
+                              <ImportAsTile>False</ImportAsTile>
+                              <Frame>0</Frame>
+                              <RemapToGamePalette>True</RemapToGamePalette>
+                              <RemapToRoomPalette>False</RemapToRoomPalette>
+                              <ImportMethod>LeaveAsIs</ImportMethod>
+                              <TransparentColorIndex>0</TransparentColorIndex>
+                              <ImportAlphaChannel>True</ImportAlphaChannel>
+                            </Source>
+                          </Sprite>
+                          <Sprite Slot="40" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                            <Source>
+                              <FileName>Slenderjump/Flying2.png</FileName>
+                              <OffsetX>0</OffsetX>
+                              <OffsetY>0</OffsetY>
+                              <ImportHeight>50</ImportHeight>
+                              <ImportWidth>25</ImportWidth>
+                              <ImportAsTile>False</ImportAsTile>
+                              <Frame>0</Frame>
+                              <RemapToGamePalette>True</RemapToGamePalette>
+                              <RemapToRoomPalette>False</RemapToRoomPalette>
+                              <ImportMethod>LeaveAsIs</ImportMethod>
+                              <TransparentColorIndex>0</TransparentColorIndex>
+                              <ImportAlphaChannel>True</ImportAlphaChannel>
+                            </Source>
+                          </Sprite>
+                          <Sprite Slot="41" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                            <Source>
+                              <FileName>Slenderjump/Flying3.png</FileName>
+                              <OffsetX>0</OffsetX>
+                              <OffsetY>0</OffsetY>
+                              <ImportHeight>50</ImportHeight>
+                              <ImportWidth>25</ImportWidth>
+                              <ImportAsTile>False</ImportAsTile>
+                              <Frame>0</Frame>
+                              <RemapToGamePalette>True</RemapToGamePalette>
+                              <RemapToRoomPalette>False</RemapToRoomPalette>
+                              <ImportMethod>LeaveAsIs</ImportMethod>
+                              <TransparentColorIndex>0</TransparentColorIndex>
+                              <ImportAlphaChannel>True</ImportAlphaChannel>
+                            </Source>
+                          </Sprite>
+                          <Sprite Slot="42" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                            <Source>
+                              <FileName>Slenderjump/Flying4.png</FileName>
+                              <OffsetX>0</OffsetX>
+                              <OffsetY>0</OffsetY>
+                              <ImportHeight>50</ImportHeight>
+                              <ImportWidth>25</ImportWidth>
+                              <ImportAsTile>False</ImportAsTile>
+                              <Frame>0</Frame>
+                              <RemapToGamePalette>True</RemapToGamePalette>
+                              <RemapToRoomPalette>False</RemapToRoomPalette>
+                              <ImportMethod>LeaveAsIs</ImportMethod>
+                              <TransparentColorIndex>0</TransparentColorIndex>
+                              <ImportAlphaChannel>True</ImportAlphaChannel>
+                            </Source>
+                          </Sprite>
+                          <Sprite Slot="43" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                            <Source>
+                              <FileName>Slenderjump/Flying5.png</FileName>
+                              <OffsetX>0</OffsetX>
+                              <OffsetY>0</OffsetY>
+                              <ImportHeight>50</ImportHeight>
+                              <ImportWidth>25</ImportWidth>
+                              <ImportAsTile>False</ImportAsTile>
+                              <Frame>0</Frame>
+                              <RemapToGamePalette>True</RemapToGamePalette>
+                              <RemapToRoomPalette>False</RemapToRoomPalette>
+                              <ImportMethod>LeaveAsIs</ImportMethod>
+                              <TransparentColorIndex>0</TransparentColorIndex>
+                              <ImportAlphaChannel>True</ImportAlphaChannel>
+                            </Source>
+                          </Sprite>
+                          <Sprite Slot="44" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                            <Source>
+                              <FileName>Slenderjump/Flying6.png</FileName>
+                              <OffsetX>0</OffsetX>
+                              <OffsetY>0</OffsetY>
+                              <ImportHeight>50</ImportHeight>
+                              <ImportWidth>25</ImportWidth>
+                              <ImportAsTile>False</ImportAsTile>
+                              <Frame>0</Frame>
+                              <RemapToGamePalette>True</RemapToGamePalette>
+                              <RemapToRoomPalette>False</RemapToRoomPalette>
+                              <ImportMethod>LeaveAsIs</ImportMethod>
+                              <TransparentColorIndex>0</TransparentColorIndex>
+                              <ImportAlphaChannel>True</ImportAlphaChannel>
+                            </Source>
+                          </Sprite>
+                          <Sprite Slot="45" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                            <Source>
+                              <FileName>Slenderjump/Flying7.png</FileName>
+                              <OffsetX>0</OffsetX>
+                              <OffsetY>0</OffsetY>
+                              <ImportHeight>50</ImportHeight>
+                              <ImportWidth>25</ImportWidth>
+                              <ImportAsTile>False</ImportAsTile>
+                              <Frame>0</Frame>
+                              <RemapToGamePalette>True</RemapToGamePalette>
+                              <RemapToRoomPalette>False</RemapToRoomPalette>
+                              <ImportMethod>LeaveAsIs</ImportMethod>
+                              <TransparentColorIndex>0</TransparentColorIndex>
+                              <ImportAlphaChannel>True</ImportAlphaChannel>
+                            </Source>
+                          </Sprite>
+                          <Sprite Slot="46" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                            <Source>
+                              <FileName>Slenderjump/Flying8.png</FileName>
+                              <OffsetX>0</OffsetX>
+                              <OffsetY>0</OffsetY>
+                              <ImportHeight>50</ImportHeight>
+                              <ImportWidth>25</ImportWidth>
+                              <ImportAsTile>False</ImportAsTile>
+                              <Frame>0</Frame>
+                              <RemapToGamePalette>True</RemapToGamePalette>
+                              <RemapToRoomPalette>False</RemapToRoomPalette>
+                              <ImportMethod>LeaveAsIs</ImportMethod>
+                              <TransparentColorIndex>0</TransparentColorIndex>
+                              <ImportAlphaChannel>True</ImportAlphaChannel>
+                            </Source>
+                          </Sprite>
                         </Sprites>
                       </SpriteFolder>
                     </SubFolders>
@@ -5375,7 +5519,21 @@
                         <Delay>0</Delay>
                         <Flipped>False</Flipped>
                         <ID>0</ID>
-                        <Image>13</Image>
+                        <Image>20</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>1</ID>
+                        <Image>21</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>2</ID>
+                        <Image>22</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
                     </Frames>
@@ -5494,13 +5652,6 @@
                         <Image>21</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
-                      <ViewFrame>
-                        <Delay>0</Delay>
-                        <Flipped>False</Flipped>
-                        <ID>3</ID>
-                        <Image>22</Image>
-                        <Sound>0</Sound>
-                      </ViewFrame>
                     </Frames>
                   </Loop>
                   <Loop>
@@ -5528,10 +5679,57 @@
                         <Image>21</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
+                    </Frames>
+                  </Loop>
+                  <Loop>
+                    <ID>5</ID>
+                    <RunNextLoop>False</RunNextLoop>
+                    <Frames>
                       <ViewFrame>
                         <Delay>0</Delay>
                         <Flipped>False</Flipped>
-                        <ID>3</ID>
+                        <ID>0</ID>
+                        <Image>20</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>1</ID>
+                        <Image>21</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>2</ID>
+                        <Image>22</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                    </Frames>
+                  </Loop>
+                  <Loop>
+                    <ID>6</ID>
+                    <RunNextLoop>False</RunNextLoop>
+                    <Frames>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>0</ID>
+                        <Image>20</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>1</ID>
+                        <Image>21</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>2</ID>
                         <Image>22</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
@@ -5551,35 +5749,84 @@
                         <Delay>0</Delay>
                         <Flipped>False</Flipped>
                         <ID>0</ID>
-                        <Image>33</Image>
-                        <Sound>0</Sound>
-                      </ViewFrame>
-                      <ViewFrame>
-                        <Delay>0</Delay>
-                        <Flipped>False</Flipped>
-                        <ID>1</ID>
-                        <Image>34</Image>
-                        <Sound>0</Sound>
-                      </ViewFrame>
-                      <ViewFrame>
-                        <Delay>0</Delay>
-                        <Flipped>False</Flipped>
-                        <ID>2</ID>
                         <Image>35</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
                       <ViewFrame>
                         <Delay>0</Delay>
                         <Flipped>False</Flipped>
-                        <ID>3</ID>
+                        <ID>1</ID>
                         <Image>36</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
                       <ViewFrame>
                         <Delay>0</Delay>
                         <Flipped>False</Flipped>
-                        <ID>4</ID>
+                        <ID>2</ID>
                         <Image>37</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>3</ID>
+                        <Image>38</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>4</ID>
+                        <Image>39</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>5</ID>
+                        <Image>40</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>6</ID>
+                        <Image>41</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>7</ID>
+                        <Image>42</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>8</ID>
+                        <Image>43</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>9</ID>
+                        <Image>44</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>10</ID>
+                        <Image>45</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>11</ID>
+                        <Image>46</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
                     </Frames>
@@ -5587,29 +5834,7 @@
                   <Loop>
                     <ID>1</ID>
                     <RunNextLoop>False</RunNextLoop>
-                    <Frames>
-                      <ViewFrame>
-                        <Delay>0</Delay>
-                        <Flipped>False</Flipped>
-                        <ID>0</ID>
-                        <Image>35</Image>
-                        <Sound>0</Sound>
-                      </ViewFrame>
-                      <ViewFrame>
-                        <Delay>0</Delay>
-                        <Flipped>False</Flipped>
-                        <ID>1</ID>
-                        <Image>36</Image>
-                        <Sound>0</Sound>
-                      </ViewFrame>
-                      <ViewFrame>
-                        <Delay>0</Delay>
-                        <Flipped>False</Flipped>
-                        <ID>2</ID>
-                        <Image>37</Image>
-                        <Sound>0</Sound>
-                      </ViewFrame>
-                    </Frames>
+                    <Frames />
                   </Loop>
                   <Loop>
                     <ID>2</ID>
