@@ -51,7 +51,7 @@
         </Items>
       </Objects>
       <Hotspots>
-        <Visible>False</Visible>
+        <Visible>True</Visible>
         <Locked>False</Locked>
         <Items>
           <Item ID="0000">
@@ -257,11 +257,11 @@
         </Items>
       </Hotspots>
       <WalkableAreas>
-        <Visible>True</Visible>
+        <Visible>False</Visible>
         <Locked>False</Locked>
         <Items>
           <Item ID="0000">
-            <Locked>True</Locked>
+            <Locked>False</Locked>
             <Visible>True</Visible>
           </Item>
           <Item ID="0001">

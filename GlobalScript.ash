@@ -4,3 +4,4 @@
 // scripts.
 
 import function WalkToObjectAndJumpUp(Object *obj,int height, InventoryItem *item);
+import function oObject1_Interact(Object *theObject, CursorMode mode) ;

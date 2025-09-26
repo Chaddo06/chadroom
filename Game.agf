@@ -2292,11 +2292,30 @@
           <InventoryItem>
             <CursorImage>11</CursorImage>
             <Description xml:space="preserve">New inventory item</Description>
-            <HotspotX>0</HotspotX>
-            <HotspotY>0</HotspotY>
+            <HotspotX>22</HotspotX>
+            <HotspotY>21</HotspotY>
             <ID>3</ID>
             <Image>11</Image>
             <Name>iInvItem1</Name>
+            <PlayerStartsWithItem>False</PlayerStartsWithItem>
+            <Properties />
+            <Interactions>
+              <ScriptModule>GlobalScript.asc</ScriptModule>
+              <Event Index="0" />
+              <Event Index="1" />
+              <Event Index="2" />
+              <Event Index="3" />
+              <Event Index="4" />
+            </Interactions>
+          </InventoryItem>
+          <InventoryItem>
+            <CursorImage>53</CursorImage>
+            <Description xml:space="preserve">New inventory item</Description>
+            <HotspotX>31</HotspotX>
+            <HotspotY>17</HotspotY>
+            <ID>4</ID>
+            <Image>54</Image>
+            <Name>iPiano</Name>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <Properties />
             <Interactions>
@@ -6573,6 +6592,90 @@
                         <Flipped>False</Flipped>
                         <ID>3</ID>
                         <Image>70</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                    </Frames>
+                  </Loop>
+                  <Loop>
+                    <ID>2</ID>
+                    <RunNextLoop>False</RunNextLoop>
+                    <Frames>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>0</ID>
+                        <Image>0</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                    </Frames>
+                  </Loop>
+                  <Loop>
+                    <ID>3</ID>
+                    <RunNextLoop>False</RunNextLoop>
+                    <Frames />
+                  </Loop>
+                </Loops>
+              </View>
+            </Views>
+          </ViewFolder>
+          <ViewFolder Name="object">
+            <SubFolders />
+            <Views>
+              <View>
+                <ID>7</ID>
+                <Name>piano</Name>
+                <Loops>
+                  <Loop>
+                    <ID>0</ID>
+                    <RunNextLoop>False</RunNextLoop>
+                    <Frames>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>0</ID>
+                        <Image>53</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>1</ID>
+                        <Image>54</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>2</ID>
+                        <Image>55</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>3</ID>
+                        <Image>56</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>4</ID>
+                        <Image>57</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>5</ID>
+                        <Image>58</Image>
+                        <Sound>0</Sound>
+                      </ViewFrame>
+                      <ViewFrame>
+                        <Delay>0</Delay>
+                        <Flipped>False</Flipped>
+                        <ID>6</ID>
+                        <Image>59</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
                     </Frames>
